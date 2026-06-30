@@ -1,0 +1,21 @@
+{
+  "accuracy": 0.5420246544639522,
+  "precision": 1.0,
+  "recall": 0.5420246544639522,
+  "f1": 0.7030038759689923,
+  "fraud_detection_rate": 0.5420246544639522,
+  "attack_success_rate": 0.4579753455360478,
+  "fraud_total": 2677,
+  "fraud_detected": 1451,
+  "fraud_missed": 1226,
+  "confusion_matrix": [
+    [
+      0,
+      0
+    ],
+    [
+      1226,
+      1451
+    ]
+  ]
+}
